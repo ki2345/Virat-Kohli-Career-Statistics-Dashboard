@@ -15,6 +15,7 @@ The dashboard was built using the following tools and technologies:
 • 📁 File Format – .pbix for development, with dashboard preview in .png.
 
 Source: Cricmetric.com - Virat Kohli performance year wise
+
 The dataset includes ball-by-ball and match-wise data for Virat Kohli across Test, ODI, and T20I formats from 2008 to 2025. It contains detailed records on total runs, strike rate, innings played, batting average, number of 100s and 50s, and boundary breakdown (fours & sixes).
 
 • Business Problem
@@ -75,3 +76,7 @@ Cricket fans and analysts often find it challenging to explore a player’s perf
   🧪 Format Strategy: Highlights how Kohli’s playing style and scoring ability varies by format.
   
   🎓 Educational Use: Useful for teaching cricket data analysis, sports visualization, or storytelling with dashboards.
+
+DashBoard Preview  
+
+![DashBoard Preview](https://github.com/ki2345/Virat-Kohli-Career-Statistics-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png)
