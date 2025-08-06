@@ -14,14 +14,18 @@ The dashboard was built using the following tools and technologies:
 
 • 📁 File Format – .pbix for development, with dashboard preview in .png.
 
+
 Source: Cricmetric.com - Virat Kohli performance year wise
 
 The dataset includes ball-by-ball and match-wise data for Virat Kohli across Test, ODI, and T20I formats from 2008 to 2025. It contains detailed records on total runs, strike rate, innings played, batting average, number of 100s and 50s, and boundary breakdown (fours & sixes).
 
-• Business Problem
+
+Business Problem
+
 Cricket fans and analysts often find it challenging to explore a player’s performance across multiple formats and over many years in a consolidated way. Kohli’s long and successful career spans various phases, and there's a need for a visual tool that captures all his key achievements and stats in one place.
 
-• Goal of the Dashboard
+
+Goal of the Dashboard
 
    a.To offer an easy-to-navigate, visually rich dashboard that.
    
@@ -32,8 +36,9 @@ Cricket fans and analysts often find it challenging to explore a player’s perf
    d.Highlights consistency, milestones, and scoring style.
    
    e.Serves fans, sports journalists, cricket analysts, and statisticians.
+   
 
-• Walkthrough of Key Visuals
+Walkthrough of Key Visuals
 
 1.🎯 Key KPIs Panel (Top Right)
 
@@ -64,8 +69,9 @@ Cricket fans and analysts often find it challenging to explore a player’s perf
 6.📈 Hundreds and Fifties (Line Chart)
 
   Line chart compares 50s vs 100s by year, giving a sense of conversion rate and consistency.
+  
 
-• Business Impact & Insights
+Business Impact & Insights
 
   🎥 Fan Experience: Brings Kohli’s stats to life visually—ideal for fans and content creators.
   
@@ -76,6 +82,7 @@ Cricket fans and analysts often find it challenging to explore a player’s perf
   🧪 Format Strategy: Highlights how Kohli’s playing style and scoring ability varies by format.
   
   🎓 Educational Use: Useful for teaching cricket data analysis, sports visualization, or storytelling with dashboards.
+  
 
 DashBoard Preview  
 
